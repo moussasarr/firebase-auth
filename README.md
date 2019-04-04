@@ -1,3 +1,3 @@
 # firebase-auth
- A REACT NATIVE authentication app that uses a ONE-TIME passcode sent to phone to authenticate users.
+ A REACT NATIVE authentication app that uses a SINGLE PASSCODE SMS to authenticate users.
       
